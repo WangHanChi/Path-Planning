@@ -1,0 +1,17 @@
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\bin\x64\Release\OOP_Final_project.exe.config
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\bin\x64\Release\OOP_Final_project.exe
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\bin\x64\Release\OOP_Final_project.pdb
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.csproj.AssemblyReference.cache
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.csproj.SuggestedBindingRedirects.cache
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.About_Astar.resources
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.Detail_Astar.resources
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.Enter_Game.resources
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.Main_Window.resources
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.Game_Explain.resources
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.Properties.Resources.resources
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.Setting.resources
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.Show_Astar.resources
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.csproj.GenerateResource.cache
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.csproj.CoreCompileInputs.cache
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.exe
+D:\碩一上\修課\物件導向\Final_project\OOP_Final_project\OOP_Final_project\obj\x64\Release\OOP_Final_project.pdb

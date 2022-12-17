@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_Final_project.About_Astar" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABIAAACAABAAACCCQEAACCBAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>About_Astar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Final_project.Detail_Astar" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAYAEAAAEKAIAAAAAACADAACABBAARACAgcDAABAAAA=</HashCode>
+      <FileName>Detail_Astar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Final_project.Enter_Game" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EwAGlEEAgCABAYEQBBCDAAAiAzwAAYgIAEABAAgSIAA=</HashCode>
+      <FileName>Enter_Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Final_project.Game_Explain" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACUBAAQACICAAAQCCBAAAAAAAAAAAAhAIAA=</HashCode>
+      <FileName>Game_Explain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Final_project.Main_Window" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAACIACAAAACAgCAAAAAAQAgAAAAAIA=</HashCode>
+      <FileName>Main_Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Final_project.Program" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Final_project.Setting" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUIICAAACAACAAAAACAEAACAAFAAgAAAEAAAEEBCAE=</HashCode>
+      <FileName>Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Final_project.Show_Astar" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACCAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Show_Astar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyAstar.Astar" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABEAACgAAAAAQAAUAAAQCIAAQQABAAIAAABAMAAAA=</HashCode>
+      <FileName>Astar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyAstar.Dijkstra" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Astar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyAstar.Weight" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAIQUAACAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyAstar.Node" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameObject" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAABAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Flag" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACAQAAAgAABAAAEAAAAAAAQABAAAAAAABCAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Car" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAEAAAAIAAAgABBAAAgAAAAAAABQAAAAAAABBCAgA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Obstacle" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAgAABAAAAAAAAAAAQAAAAAEAAAACAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Margin" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAABAAAAAAgABBAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Final_project.Properties.Resources" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAAAAAAAAAAgAABBEAAAAQAAAEAgAAEAIAAQIII=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Final_project.Properties.Settings" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyAstar.COST" Collapsed="true">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Astar.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game.GameStatus" Collapsed="true">
+    <Position X="13.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game.Difficulty" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAgAAAAAAAAAABAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game.MAP_MODE" Collapsed="true">
+    <Position X="15.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAABAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
